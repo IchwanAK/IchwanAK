@@ -1,4 +1,8 @@
-## Hi there 👋
+## Halo semuanya! 👋
+Perkenalkan nama saya Ichwan Akmaluddin.<br>
+Saya Seorang Mahasiswa Teknik Komputer dari Universitas Pendidikan Indonesia.<br>
+Pada saat ini saya memasuki di Semester 6,<br>
+Jika kamu tertarik untuk berkenalan denganku, silahkan akun [LinkedIn](www.linkedin.com/in/ichwan-akmaluddin)ku ya.
 
 <!--
 **IchwanAK/IchwanAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
